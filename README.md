@@ -9,7 +9,7 @@ Reputeless (https://twitter.com/Reputeless)
 鍵盤はマウスクリックで鳴らせます。
 
 #### 実行ファイルダウンロード
-https://github.com/Reputeless/Siv3D-GameJam-14-SuperSiv3DKunRun/blob/master/MimicopiWhistle.zip?raw=true
+https://github.com/Reputeless/Siv3D-GameJam-17-MimicopiWhistle/blob/master/MimicopiWhistle.zip?raw=true
 
 #### スクリーンショット
 ![スクリーンショット](ss.gif "スクリーンショット")
